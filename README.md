@@ -1,6 +1,6 @@
 # Repository_2
 Master : Line 2(New Content Added)
-*******************
+Hash
 Master : Line 4
 Branch : Line 5
 Branch : Line 6
