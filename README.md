@@ -1,6 +1,6 @@
 # Repository_2
 Master : Line 2(New Content Added)
-Hash
+New Editable Content(Final)
 Master : Line 4
 Branch : Line 5
 Branch : Line 6
@@ -12,3 +12,5 @@ Branch_4 : Line 11
 Branch_4 : Line 12
 Final : Line 13
 Final : Line 14
+Branch_5 : Line 15
+Branch_5 : Line 16
